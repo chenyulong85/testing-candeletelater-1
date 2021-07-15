@@ -6,7 +6,7 @@ namespace VCSBasics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hellod!123345567");
+            Console.WriteLine("Hellod!10");
         }
     }
 }
